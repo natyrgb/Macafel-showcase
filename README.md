@@ -19,7 +19,7 @@ Macafel is an online car rental marketplace that connects customers with rental 
 
 ## Screenshots
 ![Home Page](https://github.com/natyrgb/Macafel-showcase/blob/main/Home.png?raw=true)
-![Car Listings](screenshots/listings.png)
+![Car Listings](https://github.com/natyrgb/Macafel-showcase/blob/main/listed%20cars.png?raw=true)
 
 ## Contact
 For more information or to request access to the full repository, please contact me at natnael98geremew@gmail.com
