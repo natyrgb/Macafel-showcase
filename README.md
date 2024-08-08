@@ -18,7 +18,7 @@ Macafel is an online car rental marketplace that connects customers with rental 
 - Payment: Stripe
 
 ## Screenshots
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/natyrgb/Macafel-showcase/blob/main/Home.png?raw=true)
 ![Car Listings](screenshots/listings.png)
 
 ## Contact
